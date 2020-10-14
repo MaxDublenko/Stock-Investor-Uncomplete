@@ -1,0 +1,64 @@
+body {
+  text-align: center;
+  font-family: monospace;
+}
+
+#canvas {
+  border: 1px solid black;
+}
+
+#title {
+  font-size: 30px;
+}
+
+#share {
+  margin-bottom: 5px;
+}
+
+.left {
+  float: left;
+  width: 200px;
+}
+
+.right {
+  float: right;
+  width: 200px;
+}
+
+.leftp {
+  float: left;
+  margin-top: -10px;
+}
+
+.leftp1 {
+  float: left;
+  margin-top: -10px;
+}
+
+#submit {
+  margin-top: 5px;
+}
+
+.righth1 {
+  float: left;
+  margin-left: -30px;
+}
+
+.rightp {
+  float: left;
+  margin-top: -10px;
+  margin-left: -29px;
+}
+
+#setmoneyto5 {
+  margin-bottom: 5px;
+}
+
+#stock1 {
+  float: left;
+}
+
+#stock2 {
+  float: left;
+  margin-left: -1px;
+}
